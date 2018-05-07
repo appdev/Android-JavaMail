@@ -8,7 +8,7 @@
 
 ## 登录
 ```java
-String address = "smuyyh@126.com";
+String address = "XXXX@XXX.com";
 String pwd = "xxxxxxxxxx";
 String host = "smtp." + address.substring(address.lastIndexOf("@") + 1);
 
